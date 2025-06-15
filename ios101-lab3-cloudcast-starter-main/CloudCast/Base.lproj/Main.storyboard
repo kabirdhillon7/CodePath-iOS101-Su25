@@ -45,7 +45,7 @@
                                         <nil key="highlightedColor"/>
                                     </label>
                                     <stackView opaque="NO" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="vLu-gS-A23">
-                                        <rect key="frame" x="0.0" y="57.333333333333314" width="249.66666666666669" height="175"/>
+                                        <rect key="frame" x="0.0" y="57.333333333333314" width="249.66666666666666" height="175"/>
                                         <subviews>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="fLl-eL-TQ2">
                                                 <rect key="frame" x="0.0" y="0.0" width="37.333333333333336" height="175"/>
